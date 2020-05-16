@@ -1,3 +1,9 @@
+# 캐릭터 이미지
+![godotea_charactor_image_from_example_asset](data/character/godotea.png)
+
+# 작업 경과 이미지
+준비중..
+
 # 캐릭터 정보
 2D Sprite Shader Demo 버전에 등장하는 godotea 캐릭터입니다.
 작업자가 고도 엔진인 것으로 보아 곧 공식 캐릭터가 되려는게 아닌가 싶습니다.
