@@ -1,6 +1,11 @@
 extends Spatial
 
 
+var rot_val:Vector2
+var scale_val:Vector2
+var pos_val:Vector2
+
+
 func _input(event):
 	if event.is_action_pressed("ui_cancel"):
 		get_tree().quit()
